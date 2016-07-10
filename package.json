@@ -1,0 +1,23 @@
+{
+  "name": "jaz-nodeschool-scope-chains-closures",
+  "version": "1.0.0",
+  "description": "NodeSchool Solutions by Jaz for scope-chains-closures workshopper",
+  "main": "index.js",
+  "dependencies": {
+    "scope-chains-closures": "^1.0.4"
+  },
+  "devDependencies": { },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazeee/nodeschool-scope-chains-closures.git"
+  },
+  "author": "Jaz Singh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jazeee/nodeschool-scope-chains-closures/issues"
+  },
+  "homepage": "https://github.com/jazeee/nodeschool-scope-chains-closures#readme"
+}
