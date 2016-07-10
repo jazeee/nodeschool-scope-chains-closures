@@ -1,5 +1,5 @@
 # nodeschool-scope-chains-closures
-My solutions to Nodeschool scope-chains-closures, of course, in CoffeeScript if possible
+My solutions to Nodeschool scope-chains-closures.
 
 NodeSchool is great for reviewing and filling in the gaps!
 
