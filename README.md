@@ -4,9 +4,7 @@ My solutions to Nodeschool scope-chains-closures.
 NodeSchool is great for reviewing and filling in the gaps!
 
 ```
-sudo npm install -g coffee-script
 npm install
-coffee -c ./
 ```
 Then run
 ```
